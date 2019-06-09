@@ -1,0 +1,15 @@
+.list-item-card {
+	background: #fff;
+	margin-top: 10px;
+	padding: 5px 10px;
+	color: #222;
+	border-radius: 6px;
+	font-size: 1.4rem;
+	position: relative;
+}
+
+.list-item-card .delete-button {
+	position: absolute;
+	top: 0px;
+	right: 5px;
+}

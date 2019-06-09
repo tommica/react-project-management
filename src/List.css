@@ -1,0 +1,43 @@
+.list-item-box {
+	background: rgba(255, 255, 255, 0.7);
+	display: inline-block;
+	width: 300px;
+	margin: 40px 40px 0 0;
+	padding: 15px;
+	border-radius: 8px;
+	vertical-align: top;
+	position: relative;
+}
+
+.list-item-box .title {
+	color: #222;
+	font-size: 1.4rem;
+	font-weight: bold;
+	border-bottom: solid 1px;
+}
+
+.list-item-box .cards {
+	min-height: 30px;
+	background: rgba(0, 0, 0, 0.4);
+	margin-top: 10px;
+	border-radius: 8px;
+}
+
+.card-input {
+	font-size: 1rem;
+	padding: 5px 8px;
+	background: rgba(255, 255, 255, 0.8);
+	border: 0;
+	border-radius: 6px;
+	width: 100%;
+	margin-top: 10px;
+}
+
+.list-item-box > .delete-button {
+	position: absolute;
+	cursor: pointer;
+	top: 0;
+	right: 15px;
+	font-size: 2rem;
+	color: #000;
+}

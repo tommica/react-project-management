@@ -1,3 +1,9 @@
+# [React Project Management](https://www.tommicarleman.net/react-project-management)
+
+I wanted to see if I could could buld a simple project management tool in react - heavily inspired by [Trello](https://trello.com/).
+
+Lists and list items are stored in the browser, so be careful about deleting your caches!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
