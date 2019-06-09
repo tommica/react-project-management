@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-project-management/static/css/main.3645b9dd.chunk.css",
+    "main.js": "/react-project-management/static/js/main.712889d4.chunk.js",
+    "main.js.map": "/react-project-management/static/js/main.712889d4.chunk.js.map",
+    "runtime~main.js": "/react-project-management/static/js/runtime~main.bbbdf024.js",
+    "runtime~main.js.map": "/react-project-management/static/js/runtime~main.bbbdf024.js.map",
+    "static/js/2.5fb37bb2.chunk.js": "/react-project-management/static/js/2.5fb37bb2.chunk.js",
+    "static/js/2.5fb37bb2.chunk.js.map": "/react-project-management/static/js/2.5fb37bb2.chunk.js.map",
+    "index.html": "/react-project-management/index.html",
+    "precache-manifest.51f1ac81e5335da28ef803413be3a814.js": "/react-project-management/precache-manifest.51f1ac81e5335da28ef803413be3a814.js",
+    "service-worker.js": "/react-project-management/service-worker.js",
+    "static/css/main.3645b9dd.chunk.css.map": "/react-project-management/static/css/main.3645b9dd.chunk.css.map",
+    "static/media/index.css": "/react-project-management/static/media/bg.8ea091ee.jpg"
+  }
+}
